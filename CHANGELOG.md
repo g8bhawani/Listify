@@ -2,6 +2,19 @@
 
 #### ⚠️ Pushed to `main`
 
+- Pushed package (bshankar@markem-imaje.com)
+- Initial commit (bshankar@markem-imaje.com)
+
+#### Authors: 1
+
+- Bhawani Shankar ([@g8bhawani](https://github.com/g8bhawani))
+
+---
+
+# v1.0.3 (Wed Jun 04 2025)
+
+#### ⚠️ Pushed to `main`
+
 - Initial commit (bshankar@markem-imaje.com)
 
 #### Authors: 1

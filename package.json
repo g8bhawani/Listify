@@ -1,5 +1,8 @@
 {
   "version": "1.0.2",
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "A simple list management application",
   "license": "MIT",
   "author": "Bhawani Shankar",

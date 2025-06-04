@@ -142,6 +142,14 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@bhawanishankar/listify@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "@bhawanishankar/listify@workspace:."
+  dependencies:
+    auto: "npm:^11.3.0"
+  languageName: unknown
+  linkType: soft
+
 "@cspotcode/source-map-support@npm:^0.8.0":
   version: 0.8.1
   resolution: "@cspotcode/source-map-support@npm:0.8.1"
@@ -427,14 +435,6 @@ __metadata:
   checksum: 10c0/b1b863ac34a2c2172fbe0807a1ec4d5cb684e48d422d15ec95980b81475fac4fdb3768a8b13eef39130203a7c04340fc167bae057c7ebcafd7dec9fe6c36aeb1
   languageName: node
   linkType: hard
-
-"Listify@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "Listify@workspace:."
-  dependencies:
-    auto: "npm:^11.3.0"
-  languageName: unknown
-  linkType: soft
 
 "acorn-walk@npm:^8.1.1":
   version: 8.3.4

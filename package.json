@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "description": "A simple list management application",
+  "license": "MIT",
+  "author": "Bhawani Shankar",
+  "name": "Listify",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "auto shipit"
+  },
+  "packageManager": "yarn@4.9.1",
+  "devDependencies": {
+    "auto": "^11.3.0"
+  }
+}

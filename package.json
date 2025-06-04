@@ -6,7 +6,7 @@
   "description": "A simple list management application",
   "license": "MIT",
   "author": "Bhawani Shankar",
-  "name": "@g8bhawani.shankar/listify",
+  "name": "@g8bhawanishankar/listify",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "release": "auto shipit"

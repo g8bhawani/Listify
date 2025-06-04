@@ -1,3 +1,16 @@
+# v1.0.6 (Wed Jun 04 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Initial commit (bshankar@markem-imaje.com)
+- Pushed package (bshankar@markem-imaje.com)
+
+#### Authors: 1
+
+- Bhawani Shankar ([@g8bhawani](https://github.com/g8bhawani))
+
+---
+
 # v1.0.5 (Wed Jun 04 2025)
 
 #### ⚠️ Pushed to `main`

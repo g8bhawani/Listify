@@ -165,9 +165,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@g8bhawanishankar/listify@workspace:.":
+"@g8bhawani/listify@workspace:.":
   version: 0.0.0-use.local
-  resolution: "@g8bhawanishankar/listify@workspace:."
+  resolution: "@g8bhawani/listify@workspace:."
   dependencies:
     auto: "npm:^11.3.0"
   languageName: unknown

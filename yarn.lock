@@ -142,14 +142,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@bshankar/listify@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "@bshankar/listify@workspace:."
-  dependencies:
-    auto: "npm:^11.3.0"
-  languageName: unknown
-  linkType: soft
-
 "@cspotcode/source-map-support@npm:^0.8.0":
   version: 0.8.1
   resolution: "@cspotcode/source-map-support@npm:0.8.1"
@@ -172,6 +164,14 @@ __metadata:
   checksum: 10c0/3f0411ac0395baf1e08b3ba4c5b42b13810469260598655da7e45bf6579554a5167fed176b297a93c0889d97d028a24c68333510c4103993b08de7a0c6bc9482
   languageName: node
   linkType: hard
+
+"@g8bhawani/listify@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "@g8bhawani/listify@workspace:."
+  dependencies:
+    auto: "npm:^11.3.0"
+  languageName: unknown
+  linkType: soft
 
 "@jridgewell/resolve-uri@npm:^3.0.3":
   version: 3.1.2
